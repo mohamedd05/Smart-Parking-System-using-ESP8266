@@ -1,7 +1,5 @@
 # Smart Parking System using ESP8266 NodeMcu
 A Wi-Fi–enabled Smart Parking Automation System built using multiple ESP8266 microcontrollers, ultrasonic sensors, LED indicators, and a micro-servo gate mechanism. The system provides real-time slot monitoring, automatic gate control, live billing, and a web dashboard—all without requiring the internet.
-Here is the **FULL, CLEAN, READY-TO-PASTE README.md** for GitHub — no extras, no explanations — **just the final Markdown** exactly as you need it.
-You can copy this entire block directly into your GitHub README.
 
 ---
 
