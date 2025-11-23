@@ -12,11 +12,10 @@ The system provides **real-time slot monitoring**, **automatic gate control**, *
 
 ---
 
-## 📸 WEB UI
+## 📸 Webserver User Interface
 
-```md
 ![Smart Parking System Web UI](./Images/WEB_UI_1.png)
-```
+
 
 ---
 
@@ -159,10 +158,10 @@ The system provides **real-time slot monitoring**, **automatic gate control**, *
 # 📂 Project Structure
 
 ```
-/server_V2.ino      → ESP8266 Server (AP + Dashboard + Gate)
-/client_V2.ino      → Sensor Client (ultrasonic)
-/client_led_v2.ino  → LED Control Client
-/images/            → System diagrams & photos
+Codes/server_V2.ino      → ESP8266 Server (AP + Dashboard + Gate)
+Codes/client_V2.ino      → Sensor Client (ultrasonic)
+Codes/client_led_v2.ino  → LED Control Client
+/Images/            → System diagrams & photos
 README.md           → Project documentation
 ```
 
