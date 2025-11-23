@@ -15,7 +15,7 @@ The system provides **real-time slot monitoring**, **automatic gate control**, *
 ## 📸 WEB UI
 
 ```md
-![Smart Parking System Web UI](./images/WEB_UI_1.png)
+![Smart Parking System Web UI](./Images/WEB_UI_1.png)
 ```
 
 ---
