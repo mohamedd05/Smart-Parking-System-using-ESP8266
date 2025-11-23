@@ -161,8 +161,8 @@ The system provides **real-time slot monitoring**, **automatic gate control**, *
 Codes/server_V2.ino      → ESP8266 Server (AP + Dashboard + Gate)
 Codes/client_V2.ino      → Sensor Client (ultrasonic)
 Codes/client_led_v2.ino  → LED Control Client
-/Images/            → System diagrams & photos
-README.md           → Project documentation
+/Images/                 → System diagrams & photos
+README.md                → Project documentation
 ```
 
 ---
